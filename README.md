@@ -1,6 +1,7 @@
 # IBM Data Science project assignment - Analyze Stock Data
 
-In this lab I'm Analyze and Visualize Stock Data of Tesla and GameStop Revenue using data from yahoo.com
+In this lab I'm Analyze and Visualize Stock Data of Tesla and GameStop Revenue using data from Yahoo Finance API.
+And others stocks like Apple, AMD, Netflix and Amazon.
 
 ## Demonstration of Result
 
@@ -16,10 +17,12 @@ In this lab I'm Analyze and Visualize Stock Data of Tesla and GameStop Revenue u
 
 - Jupyter Notebook
 - IBM cloud, IBM Watson Studio
+- Yahoo Finance API
 - Webscraping using BeautifulSoup
 - yfinance to extract stock data
 - pandas
 - matplotlib
+- plotly
 
 ## Resources
 

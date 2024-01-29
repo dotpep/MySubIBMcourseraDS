@@ -61,6 +61,5 @@ def main():
     make_graph(tesla_data, validated_tesla_revenue, 'Tesla')
     
     
-    
 if __name__ == '__main__':
     main()
