@@ -7,11 +7,21 @@ And others stocks like Apple, AMD, Netflix and Amazon.
 
 ### Plot Tesla Stock Graph
 
-![Tesla Revenue Stock Graph](Plot_Tesla_Stock_Graph.png)
+- [run code path: `stock-analyze\main.py`](https://github.com/dotpep/stock-analyze/blob/main/stock-analyze/main.py)
+
+![Tesla Revenue Stock Graph](assets\plot_tesla_stock_graph.png)
 
 ### Plot GameStop Stock Graph
 
-![GameStop Revenue Stock Graph](Plot_GameStop_Stock_Graph.png)
+- [run code path: `stock-analyze\main.py`](https://github.com/dotpep/stock-analyze/blob/main/stock-analyze/main.py)
+
+![GameStop Revenue Stock Graph](assets\plot_gamestop_stock_graph.png)
+
+### Plot Apple Stack data Graph
+
+- [run code path: `stock-graph\apple_stock_data_graph.py`](https://github.com/dotpep/stock-analyze/blob/main/stock-graph/apple_stock_data_graph.py)
+
+![Apple Stock Data Graph](assets\apple_stock_data_graph.png)
 
 ## Using Technology
 
@@ -23,6 +33,10 @@ And others stocks like Apple, AMD, Netflix and Amazon.
 - pandas
 - matplotlib
 - plotly
+
+## Installation
+
+- You can 1. clone nessacarry graphs file 2. install dependencies 3. run this code and you must see results of stock graph visualization with matplotlib and plotly.
 
 ## Resources
 
