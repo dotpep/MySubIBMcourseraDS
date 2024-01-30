@@ -9,19 +9,19 @@ And others stocks like Apple, AMD, Netflix and Amazon.
 
 - [run code path: `stock-analyze\main.py`](https://github.com/dotpep/stock-analyze/blob/main/stock-analyze/main.py)
 
-![Tesla Revenue Stock Graph](assets\plot_tesla_stock_graph.png)
+![Tesla Revenue Stock Graph](assets/plot_tesla_stock_graph.png)
 
 ### Plot GameStop Stock Graph
 
 - [run code path: `stock-analyze\main.py`](https://github.com/dotpep/stock-analyze/blob/main/stock-analyze/main.py)
 
-![GameStop Revenue Stock Graph](assets\plot_gamestop_stock_graph.png)
+![GameStop Revenue Stock Graph](assets/plot_gamestop_stock_graph.png)
 
 ### Plot Apple Stack data Graph
 
 - [run code path: `stock-graph\apple_stock_data_graph.py`](https://github.com/dotpep/stock-analyze/blob/main/stock-graph/apple_stock_data_graph.py)
 
-![Apple Stock Data Graph](assets\apple_stock_data_graph.png)
+![Apple Stock Data Graph](assets/apple_stock_data_graph.png)
 
 ## Using Technology
 
